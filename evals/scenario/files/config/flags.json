@@ -1,0 +1,5 @@
+{
+  "express_checkout": {"default": true, "description": "One-page checkout for returning customers"},
+  "loyalty_points": {"default": false, "description": "Earn points on paid orders"},
+  "new_search": {"default": false, "description": "The rewritten product search"}
+}
